@@ -1,6 +1,6 @@
-# Uni3R
+# NoDrift3R
 
-Uni3R Project Page
+NoDrift3R Project Page
 
 
 # Acknowledgements
